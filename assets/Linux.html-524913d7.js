@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-82145324","path":"/blogs/suibi/2023/Linux.html","title":"linux","lang":"en-US","frontmatter":{"title":"linux","date":"2023/10/27","tags":["linux"],"categories":["随笔"]},"headers":[],"git":{},"filePathRelative":"blogs/随笔/2023/Linux.md"}');export{t as data};
